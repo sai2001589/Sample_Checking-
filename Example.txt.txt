@@ -1,3 +1,5 @@
 This is my new git file 
 
 I have updated in feature branch
+
+I have updated the main branch 
